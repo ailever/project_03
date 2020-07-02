@@ -1,4 +1,7 @@
 statsmodel official : https://www.statsmodels.org/stable/user-guide.html
+## Basic statistics
+- [Statistics](https://www.statsmodels.org/stable/stats.html)
+- [Distributions](https://www.statsmodels.org/stable/distributions.html)
 
 ## Time Series Analysis
 - Regression and Linear Models
