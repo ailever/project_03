@@ -34,18 +34,19 @@ __double underbar__
 <br><br><br>
 ```markdown
 -
-*
-+
+-
+-
 ```
 hyphen
 -
 -
 -
+
 asterisks  
-*
-*
-*
+* 
+* 
+* 
 plus sign  
-+
-+
-+
++ 
++ 
++ 
