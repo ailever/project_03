@@ -36,28 +36,20 @@ __double underbar__
 -
 -
 -
+
 1. 
 2. 
 3. 
 ```
-hyphen
+hyphen list
 
 -
 -
 -
+
+ordered number list
 
 1. 
 2. 
 3. 
 
-asterisks  
-
-* 
-* 
-* 
-
-plus sign  
-
-+ 
-+ 
-+ 
