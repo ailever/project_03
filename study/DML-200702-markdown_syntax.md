@@ -81,9 +81,18 @@ division line
 
 <br><br><br>
 ```markdown
-<img scr="image_link">
+<img scr="image link">
 ```
 <img width="975" alt="그림1" src="https://user-images.githubusercontent.com/52376448/86312752-5eb3a280-bc5e-11ea-95f3-0632042aa0d4.png"> 
+
+<br><br><br>
+```markdown
+<a hrerf="https://github.com/ailever/project_time_series_analysis/wiki">wiki home</a>
+```
+<a hrerf="https://github.com/ailever/project_time_series_analysis/wiki">wiki home</a>
+<br><br><br>
+
+
 
 <br><br><br>
 ```markdown
