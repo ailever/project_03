@@ -4,5 +4,5 @@
 - Dongmyeong Lee, Hayun Lee
 
 ## Educational resource
-- 
+- COLAB : https://colab.research.google.com/notebooks/welcome.ipynb
 - 
