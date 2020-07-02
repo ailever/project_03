@@ -3,3 +3,6 @@
 ## Group members
 - Dongmyeong Lee, Hayun Lee
 
+## Educational resource
+- 
+- 
