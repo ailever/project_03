@@ -41,11 +41,11 @@ hyphen
 -
 -
 -
-asterisks
+asterisks  
 *
 *
 *
-plus sign
+plus sign  
 +
 +
 +
