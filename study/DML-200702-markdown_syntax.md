@@ -22,12 +22,14 @@ simple text
 _single underbar_
 __double underbar__
 ~~tilde~~
+<u>under line</u>
 ```
 simple text  
 *asterisks*  
 _underbar_  
 __double underbar__  
 ~~tilde~~
+<u>under line</u>
 
 <br><br><br>
 
