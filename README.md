@@ -8,5 +8,5 @@
 
 ## Educational resource
 - COLAB : https://colab.research.google.com/notebooks/welcome.ipynb
-- 
+- Data-Science School : https://datascienceschool.net/view-notebook/9987e98ec60946c79a8a7f37cb7ae9cc/
 
