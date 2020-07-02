@@ -1,4 +1,4 @@
-# Project : Time Serires Analysis
+# Project : Time Series Analysis
 ## Notices
 - The aims of project : [?]
 - Meeting time, place : on every [Thursday?], [?]
