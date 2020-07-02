@@ -15,6 +15,9 @@ statsmodel official : https://www.statsmodels.org/stable/user-guide.html
   - [ExponentialSmoothing](https://www.statsmodels.org/stable/generated/statsmodels.tsa.holtwinters.ExponentialSmoothing.html#statsmodels.tsa.holtwinters.ExponentialSmoothing)
   - [SimpleExpSmoothing](https://www.statsmodels.org/stable/generated/statsmodels.tsa.holtwinters.SimpleExpSmoothing.html#statsmodels.tsa.holtwinters.SimpleExpSmoothing)
   - [Holt’s Exponential Smoothing](https://www.statsmodels.org/stable/generated/statsmodels.tsa.holtwinters.Holt.html#statsmodels.tsa.holtwinters.Holt)
+- Regime switching models
+  - [MarkovRegression](https://www.statsmodels.org/stable/generated/statsmodels.tsa.regime_switching.markov_regression.MarkovRegression.html#statsmodels.tsa.regime_switching.markov_regression.MarkovRegression)
+  - [MarkovAutoregression](https://www.statsmodels.org/stable/generated/statsmodels.tsa.regime_switching.markov_autoregression.MarkovAutoregression.html#statsmodels.tsa.regime_switching.markov_autoregression.MarkovAutoregression)
 - [Vector Autoregressions](https://www.statsmodels.org/stable/vector_ar.html)
 - Nonparametric Methods
   - [Univariate Kernel Density Estimator](https://www.statsmodels.org/stable/generated/statsmodels.nonparametric.kde.KDEUnivariate.html#statsmodels.nonparametric.kde.KDEUnivariate)
