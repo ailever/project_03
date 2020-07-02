@@ -53,3 +53,10 @@ ordered number list
 2. 
 3. 
 
+<br><br><br>
+
+```markdown
+<hr>
+```
+division line  
+<hr>
