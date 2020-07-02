@@ -32,6 +32,11 @@ __double underbar__
 <u>under line</u>
 
 <br><br><br>
+```markdown
+
+```
+hyphen
 
 
-
+asterisks
+plus sign
