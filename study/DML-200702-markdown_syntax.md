@@ -21,11 +21,13 @@ simple text
 *asterisks*
 _single underbar_
 __double underbar__
+~~tilde~~
 ```
 simple text  
 *asterisks*  
 _underbar_  
 __double underbar__  
+~~tilde~~
 
 <br><br><br>
 
