@@ -69,6 +69,6 @@ division line
 ```
 table  
 
-|---|:---:|---:|
+|---:|---:|---:|
 |value|meaning|defualt value|
 
