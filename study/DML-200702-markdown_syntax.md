@@ -28,7 +28,7 @@ simple text
 *asterisks*  
 _underbar_  
 __double underbar__  
-~~tilde~~
+~~tilde~~  
 <u>under line</u>
 
 <br><br><br>
