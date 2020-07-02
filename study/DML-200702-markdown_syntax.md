@@ -71,5 +71,4 @@ table
 
 |---|:---:|---:|
 |value|meaning|defualt value|
-|     |       |             |
 
