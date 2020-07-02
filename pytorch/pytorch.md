@@ -4,5 +4,5 @@
 - official site(pytorch) : https://pytorch.org/
 
 
-## week 1
+## week 1 ｜Hyehyun Kwon, Dongmyeong Lee
 - reference : http://www.gisdeveloper.co.kr/?p=8392
