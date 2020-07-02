@@ -9,7 +9,7 @@
 - Dongmyeong Lee, Hayun Lee
 
 ## Weekly minutes
-- <a href="https://github.com/ailever/project_time_series_analysis/blob/master/weekly_minutes/week01.md">07-02-2020, WM01</a>
+- [07-02-2020, WM01](https://github.com/ailever/project_time_series_analysis/blob/master/weekly_minutes/week01.md)
 
 ## Reference materials
 ### Educational resources
