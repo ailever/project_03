@@ -60,3 +60,16 @@ ordered number list
 ```
 division line  
 <hr>
+
+<br><br><br>
+```markdown
+|---|:---:|---:|
+|value|meaning|defualt value|
+|     |       |             |
+```
+table  
+
+|---|:---:|---:|
+|value|meaning|defualt value|
+|     |       |             |
+
