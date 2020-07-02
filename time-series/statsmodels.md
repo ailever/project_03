@@ -2,6 +2,7 @@ statsmodel official : https://www.statsmodels.org/stable/user-guide.html
 
 ## Time Series Analysis
 - [Linear Regression](https://www.statsmodels.org/stable/regression.html)
+- [Generalized Linear Models](https://www.statsmodels.org/stable/glm.html)
 - [ANOVA](https://www.statsmodels.org/stable/anova.html)
 - Univariate Autoregressive Processes (AR)
   - [AR](https://www.statsmodels.org/stable/generated/statsmodels.tsa.ar_model.AutoReg.html#statsmodels.tsa.ar_model.AutoReg)
