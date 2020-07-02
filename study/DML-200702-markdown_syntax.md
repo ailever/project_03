@@ -87,9 +87,9 @@ division line
 
 <br><br><br>
 ```markdown
-<a href="https://github.com/ailever/project_time_series_analysis/wiki">wiki home</a>
+[wiki home](https://github.com/ailever/project_time_series_analysis/wiki)
 ```
-<a href="https://github.com/ailever/project_time_series_analysis/wiki">wiki home</a>
+[wiki home](https://github.com/ailever/project_time_series_analysis/wiki)
 <br><br><br>
 
 
