@@ -1,5 +1,6 @@
 # Project : Time Serires Analysis
-
+- Meeting time : on every [Thursday?]
+-
 ## Group members
 - Dongmyeong Lee, Hayun Lee
 
