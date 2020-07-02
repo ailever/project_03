@@ -19,8 +19,8 @@
 _single underbar_
 __double underbar__
 ```
-*asterisks*
-_underbar_
-__double underbar__
+*asterisks*  
+_underbar_  
+__double underbar__  
 
 
