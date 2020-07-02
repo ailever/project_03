@@ -15,12 +15,12 @@
 ###### title6
 
 ```markdown
-text
+simple text
 *asterisks*
 _single underbar_
 __double underbar__
 ```
-text  
+simple text  
 *asterisks*  
 _underbar_  
 __double underbar__  
