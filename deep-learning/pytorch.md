@@ -8,7 +8,3 @@
 - reference : http://www.gisdeveloper.co.kr/?p=8392
 
 
-
----
-
-[1]:{{ site.url }}/keeping/ppt_sample.pptx
