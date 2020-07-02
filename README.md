@@ -3,6 +3,7 @@
 - The aims of project : [?]
 - Meeting time, place : on every [Thursday?], [?]
 - <a href="https://github.com/ailever/project_time_series_analysis/wiki">wiki home</a>
+- <a href="https://arxiv.org/pdf/1703.07015v3.pdf" target="_blank">benchmarking : Modeling Long- and Short-Term Temporal Patterns with Deep Neural Networks</a>
 
 ## Group members
 - Dongmyeong Lee, Hayun Lee
