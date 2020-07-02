@@ -56,10 +56,10 @@ ordered number list
 <br><br><br>
 
 ```markdown
-<hr>
+***
 ```
 division line  
-<hr>
+***
 
 <br><br><br>
 
