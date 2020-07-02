@@ -1,4 +1,5 @@
 # Project : Time Serires Analysis
+## Notices
 - The aims of project : [?]
 - Meeting Time, Place : on every [Thursday?], [?]
 
