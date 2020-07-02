@@ -41,17 +41,23 @@ __double underbar__
 3. 
 ```
 hyphen
+
 -
 -
 -
+
 1. 
 2. 
 3. 
+
 asterisks  
+
 * 
 * 
 * 
+
 plus sign  
+
 + 
 + 
 + 
