@@ -4,7 +4,7 @@ statsmodel official : https://www.statsmodels.org/stable/user-guide.html
 - [Linear Regression](https://www.statsmodels.org/stable/regression.html)
 - [ANOVA](https://www.statsmodels.org/stable/anova.html)
 - Univariate Autoregressive Processes (AR)
-  - [AutoReg](https://www.statsmodels.org/stable/generated/statsmodels.tsa.ar_model.AutoReg.html#statsmodels.tsa.ar_model.AutoReg)
+  - [AR](https://www.statsmodels.org/stable/generated/statsmodels.tsa.ar_model.AutoReg.html#statsmodels.tsa.ar_model.AutoReg)
   - [ar_select_order](https://www.statsmodels.org/stable/generated/statsmodels.tsa.ar_model.ar_select_order.html#statsmodels.tsa.ar_model.ar_select_order)
 - Autoregressive Moving-Average Processes (ARMA) and Kalman Filter
   - [ARMA](https://www.statsmodels.org/stable/generated/statsmodels.tsa.arima_model.ARMA.html#statsmodels.tsa.arima_model.ARMA)
