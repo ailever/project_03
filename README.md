@@ -1,6 +1,8 @@
 # Project : Time Serires Analysis
-- Meeting time : on every [Thursday?]
--
+- The aims of project : [?]
+- Meeting Time, Place : on every [Thursday?], [?]
+
+
 ## Group members
 - Dongmyeong Lee, Hayun Lee
 
