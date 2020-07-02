@@ -7,6 +7,7 @@
 ## Group members
 - Dongmyeong Lee, Hayun Lee
 
+
 ## Weekly minutes
 - <a href="https://github.com/ailever/project_time_series_analysis/blob/master/weekly_minutes/week01.md">WM01, 2020-07-02</a>
 
