@@ -2,6 +2,7 @@
 ## Notices
 - The aims of project : cultivation of ability to handle the 'Pytorch' framework and analyze time series datas
 - Meeting time, place : on every Saturday(10am ~), [?]
+  - Please, upload your presentation materials until on Friday, at midnight(11:59 pm!)
 - [wiki home](https://github.com/ailever/project_time_series_analysis/wiki)
 - benchmarking : [Modeling Long- and Short-Term Temporal Patterns with Deep Neural Networks](https://arxiv.org/pdf/1703.07015v3.pdf)｜[github](https://github.com/laiguokun/LSTNet)
 
