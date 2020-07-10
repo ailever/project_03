@@ -30,6 +30,20 @@
     <td> - HHK, ESL</td>
     </tr>
 </table>
+
+1 team,  
+crawling financial data considering scale of a dataset  
+design input features and target data through feature engineering  
+provide a string of dataset with csv format including crawling.py to 2 team through github-page  <br>
+2 team,  
+get datasets from 1 team  
+design many neural net model  
+fit model and evaluate performance  
+provide evaluation metric results to 3 team  <br>
+3 team,  
+visualize all evaluation results, analyze factors affecting performance  
+econometrically, provide insight to 1 team, 2 team  
+
 - https://finance.naver.com/
 
 ## Group members
