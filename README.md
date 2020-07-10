@@ -41,7 +41,8 @@ design many neural net model
 fit model and evaluate performance  
 provide evaluation metric results to 3 team  <br>
 **3 team : data science**,  
-visualize all evaluation results, analyze factors affecting performance, display final results on ailever page
+visualize all evaluation results, analyze factors affecting performance  
+display final results on ailever page  
 econometrically, provide insight to 1 team, 2 team  
 
 - https://finance.naver.com/
