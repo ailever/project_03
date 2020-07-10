@@ -15,14 +15,14 @@
 
 <table>
 　　<tr>
-　　　　<td>A1</td>
-　　　　<td>B1</td>
-　　　　<td>C1</td>
+　　　　<td>Financial data preprocessing</td>
+　　　　<td>Signal detection model design</td>
+       <td>Evaluation & Analysis</td>
 　　</tr>
 　　<tr>
-　　　　<td>A2</td>
-　　　　<td>B2</td>
-　　　　<td>C2</td>
+　　　　<td> - crawling & factor analysis</td>
+　　　　<td> - neural net desgin</td>
+　　　　<td> - evaluation</td>
 　　</tr>
 </table>
 
