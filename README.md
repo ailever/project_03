@@ -22,7 +22,7 @@
 　　<tr>
 　　　　<td> - crawling & factor analysis</td>
 　　　　<td> - neural net desgin</td>
-　　　　<td> - evaluation</td>
+　　　　<td> - evaluation for seasonality, trend</td>
 　　</tr>
 </table>
 
