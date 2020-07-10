@@ -12,9 +12,19 @@
 - benchmarking : [Modeling Long- and Short-Term Temporal Patterns with Deep Neural Networks](https://arxiv.org/pdf/1703.07015v3.pdf)｜[github](https://github.com/laiguokun/LSTNet)
 
 ## Project
-||||
-||||
-||||
+
+<table>
+　　<tr>
+　　　　<td>A1</td>
+　　　　<td>B1</td>
+　　　　<td>C1</td>
+　　</tr>
+　　<tr>
+　　　　<td>A2</td>
+　　　　<td>B2</td>
+　　　　<td>C2</td>
+　　</tr>
+</table>
 
 ## Group members
 - Dongmyeong Lee, Hayun Lee, Chaeyun Jang, Hyehyun Kwon, Eunseo Lee, Soyoung Oh, Kyuhun Sim
