@@ -15,9 +15,9 @@
 
 <table>
 　　<tr>
-　　　　<td>Financial data preprocessing</td>
-　　　　<td>Signal detection model design</td>
-       <td>Evaluation & Analysis</td>
+　　　　<td>FDP｜financial data preprocessing</td>
+　　　　<td>SDMD｜signal detection model design</td>
+       <td>EA｜evaluation & analysis</td>
 　　</tr>
 　　<tr>
 　　　　<td> crawling & factor analysis</td>
