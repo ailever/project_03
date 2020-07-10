@@ -20,9 +20,9 @@
        <td>Evaluation & Analysis</td>
 　　</tr>
 　　<tr>
-　　　　<td> - crawling & factor analysis</td>
-　　　　<td> - neural net desgin</td>
-　　　　<td> - evaluation for seasonality, trend</td>
+　　　　<td> crawling & factor analysis</td>
+　　　　<td> neural net desgin</td>
+　　　　<td> evaluation for seasonality, trend</td>
 　　</tr>
   <tr>
     <td> - KHS, CYJ</td>
