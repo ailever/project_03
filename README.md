@@ -25,9 +25,9 @@
 　　　　<td> - evaluation for seasonality, trend</td>
 　　</tr>
   <tr>
-    <td> - Kyuhun Sim, Chaeyun Jang</td>
-    <td> - Soyoung Oh, Hayun Lee</td>
-    <td> - Hyehyun Kwon, Eunseo Lee</td>
+    <td> - KHS, CYJ</td>
+    <td> - SYO, HYL</td>
+    <td> - HHK, ESL</td>
     </tr>
 </table>
 
