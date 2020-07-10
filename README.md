@@ -24,6 +24,11 @@
 　　　　<td> - neural net desgin</td>
 　　　　<td> - evaluation for seasonality, trend</td>
 　　</tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    </tr>
 </table>
 
 ## Group members
