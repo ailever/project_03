@@ -30,6 +30,7 @@
     <td> - HHK, ESL</td>
     </tr>
 </table>
+- https://finance.naver.com/
 
 ## Group members
 - Dongmyeong Lee, Hayun Lee, Chaeyun Jang, Hyehyun Kwon, Eunseo Lee, Soyoung Oh, Kyuhun Sim
