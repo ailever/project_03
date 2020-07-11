@@ -1,5 +1,5 @@
 # Time Series model Rescheduled
-
+  updated on google drive
 # Topic for our project
   금융주가예측
   환율이 오르는 원인
