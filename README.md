@@ -5,7 +5,7 @@
   - **NOTICE** : Please, upload your presentation materials until on every Friday, at midnight(11:59 pm!)
   - **10:00 ~ 10:30 am** : presentation preparation and announcement
   - **10:30 ~ 12:00 pm** : presentation(seminar)
-  - **12:00 ~ 1:00 pm** : launch
+  - **12:00 ~ 1:00 pm** : lunch
   - **1:00 ~ 6:00 pm** : project
   - **6:00 ~ 10:00 pm** : fluid
 - [wiki home](https://github.com/ailever/project_time_series_analysis/wiki)
