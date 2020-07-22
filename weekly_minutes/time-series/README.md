@@ -5,6 +5,9 @@
 
 ## week 2｜2. 선형회귀분석의 기초
 ### Presenters : Kyuhun Sim, Hayun Lee
+- 02.01 선형 회귀분석의 기초
+- 02.02 회귀분석의 기하학
+- 02.03 부분회귀
 
 ## week 3｜3. 전처리
 ### Presenters : Eunseo Lee, Chaeyun Jang
