@@ -11,6 +11,12 @@
 
 ## week 3｜3. 전처리
 ### Presenters : Eunseo Lee, Chaeyun Jang
+- 03.01 누락데이터 처리
+- 03.02 statsmodels 패키지의 전처리 기능
+- 03.03 scikit-learn 패키지의 전처리 기능
+- 03.04 스케일링
+- 03.05 범주형 독립 변수
+
 
 ## week 4｜4. 확률적 선형회귀
 ### Presenters : Hyehyun Kwon, Dongmyeong Lee
