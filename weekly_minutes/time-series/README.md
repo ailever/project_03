@@ -4,19 +4,19 @@
 ### Presenters :
 
 ## week 2｜
-### Presenters :
+### Presenters : Kyuhun Sim, Hayun Lee
 
 ## week 3｜
-### Presenters :
+### Presenters : Eunseo Lee, Chaeyun Jang
 
 ## week 4｜
-### Presenters :
+### Presenters : Hyehyun Kwon, Dongmyeong Lee
 
 ## week 5｜
-### Presenters :
+### Presenters : Kyuhun Sim, Hayun Lee
 
 ## week 6｜
-### Presenters :
+### Presenters : Eunseo Lee, Chaeyun Jang
 
 ## week 7｜
-### Presenters :
+### Presenters : Hyehyun Kwon, Dongmyeong Lee
