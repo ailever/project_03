@@ -1,3 +1,5 @@
+[data science school](https://datascienceschool.net/view-notebook/9987e98ec60946c79a8a7f37cb7ae9cc/)
+
 ## week 1｜
 ### Presenters :
 
