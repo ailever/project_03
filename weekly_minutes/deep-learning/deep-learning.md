@@ -6,21 +6,51 @@
 ## week 1｜[Tensor Manipulation](https://www.youtube.com/watch?v=St7EhvnFi6c&list=PLQ28Nx3M4JrhkqBVIXg-i5_CVVoS1UzAv&index=3&t=1640s)
 ### Presenters : Hyehyun Kwon, Dongmyeong Lee
 - reference : http://www.gisdeveloper.co.kr/?p=8392
+- Tensor Manipulation 1,2
 
 ## week 2｜[Linear Regression](https://www.youtube.com/watch?v=kyjBMuNM1DI&list=PLQ28Nx3M4JrhkqBVIXg-i5_CVVoS1UzAv&index=5&t=0s)
 ### Presenters : Eunseo Lee, Chaeyun Jang
+- Linear regression
+- Deep Look at GD
+- Multivariable Linear regression
+- Loading Data
 
 ## week 3｜[Logistic Regression](https://www.youtube.com/watch?v=HgPWRqtg254&list=PLQ28Nx3M4JrhkqBVIXg-i5_CVVoS1UzAv&index=8)
 ### Presenters : Kyuhun Sim, Hayun Lee
+- Logistic Regression
+- Softmax Classification
+- Tips
+- MNIST Introduction
 
 ## week 4｜[Perceptron](https://www.youtube.com/watch?v=KofAX-K4dk4&list=PLQ28Nx3M4JrhkqBVIXg-i5_CVVoS1UzAv&index=12)
 ### Presenters : Hyehyun Kwon, Dongmyeong Lee
+- Perceptron
+- Multi-Layer Perceptron
+- ReLU
+- Weight initialization
+- Dropout
+- Batch Normalization
+
 
 ## week 5｜[CNN](https://www.youtube.com/watch?v=1sDCgCLO7BM&list=PLQ28Nx3M4JrhkqBVIXg-i5_CVVoS1UzAv&index=18)
 ### Presenters : Eunseo Lee, Chaeyun Jang
+- Convolution
+- mnist cnn
+- visdom
+- Image folder1,2
 
 ## week 6｜[CNN(advanced)](https://www.youtube.com/watch?v=opD4z9xoBv4&list=PLQ28Nx3M4JrhkqBVIXg-i5_CVVoS1UzAv&index=24)
 ### Presenters : Kyuhun Sim, Hayun Lee
+- VGG
+- RESNET1,2
+- Next step of CNN
 
 ## week 7｜[RNN](https://www.youtube.com/watch?v=37jxyHXzxU4&list=PLQ28Nx3M4JrhkqBVIXg-i5_CVVoS1UzAv&index=28)
 ### Presenters : Hyehyun Kwon, Dongmyeong Lee
+- RNN intro
+- RNN basics
+- RNN hihello and charseq
+- RNN Long sequence
+- RNN timeseries
+- RNN seq2seq
+- RNN PackedSequence
