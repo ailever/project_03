@@ -19,7 +19,7 @@
 
 
 ## week 4｜4. 확률적 선형회귀
-### Presenters : Hyehyun Kwon, Dongmyeong Lee
+### Presenters : Hyehyun Kwon
 - 04.01 확률론적 선형 회귀모형
 - 04.02 레버리지와 아웃라이어
 - 04.03 분산 분석과 모형 성능
@@ -27,7 +27,7 @@
 - 04.05 회귀분석모형의 진단과 수정
 
 ## week 5｜5. 기저함수와 정규화
-### Presenters : Kyuhun Sim, Hayun Lee
+### Presenters : Dongmyeong Lee
 - 05.01 비선형 모형 변형
 - 05.02 기저함수 모형과 과최적화
 - 05.03 다중공선성과 변수 선택
@@ -36,7 +36,7 @@
 
 
 ## week 6｜6. 확률과정
-### Presenters : Eunseo Lee, Chaeyun Jang
+### Presenters : Kyuhun Sim
 
 - 06.01 시계열 자료와 확률 과정
 - 06.02 정상 확률 과정과 비정상 확률 과정
@@ -46,7 +46,7 @@
 
 
 ## week 7｜7. ARIMA 시계열 모형
-### Presenters : Hyehyun Kwon, Dongmyeong Lee
+### Presenters : Hayun Lee
 
 - 07.01 일반 선형확률과정 모형
 - 07.02 Moving Average (MA) 모형
@@ -57,7 +57,7 @@
 
 
 ## week 8｜8. 시계열 모형의 추정
-### Presenters : Kyuhun Sim, Hayun Lee
+### Presenters : Eunseo Lee
 
 - 08.01 확률 과정 모형 추정
 - 08.02 로그 변환과 Box-Cox 변환
@@ -70,7 +70,7 @@
 
 
 ## week 9｜9. 상태공간 모형
-### Presenters : Eunseo Lee, Chaeyun Jang
+### Presenters :
 
 - 09.01 상태 공간 모형의 소개
 - 09.02 Kalman Filter 클래스
