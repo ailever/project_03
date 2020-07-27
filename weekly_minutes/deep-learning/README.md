@@ -46,11 +46,14 @@
 - Next step of CNN
 
 ## week 7｜[RNN](https://www.youtube.com/watch?v=37jxyHXzxU4&list=PLQ28Nx3M4JrhkqBVIXg-i5_CVVoS1UzAv&index=28)
-### Presenters : Hyehyun Kwon, Dongmyeong Lee
+### Presenters : Hyehyun Kwon, Kyuhun Sim
 - RNN intro
 - RNN basics
 - RNN hihello and charseq
 - RNN Long sequence
+
+## week 8｜[RNN]()
+### Presenters : Kyuhun Sim
 - RNN timeseries
 - RNN seq2seq
 - RNN PackedSequence
