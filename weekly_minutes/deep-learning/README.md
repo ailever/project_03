@@ -23,7 +23,7 @@
 - MNIST Introduction
 
 ## week 4｜[Perceptron](https://www.youtube.com/watch?v=KofAX-K4dk4&list=PLQ28Nx3M4JrhkqBVIXg-i5_CVVoS1UzAv&index=12)
-### Presenters : Kyuhun Sim
+### Presenters : Dongmyeong Lee
 - Perceptron
 - Multi-Layer Perceptron
 - ReLU
