@@ -23,7 +23,7 @@
 - MNIST Introduction
 
 ## week 4｜[Perceptron](https://www.youtube.com/watch?v=KofAX-K4dk4&list=PLQ28Nx3M4JrhkqBVIXg-i5_CVVoS1UzAv&index=12)
-### Presenters : Hyehyun Kwon, Dongmyeong Lee
+### Presenters : Kyuhun Sim
 - Perceptron
 - Multi-Layer Perceptron
 - ReLU
@@ -33,14 +33,14 @@
 
 
 ## week 5｜[CNN](https://www.youtube.com/watch?v=1sDCgCLO7BM&list=PLQ28Nx3M4JrhkqBVIXg-i5_CVVoS1UzAv&index=18)
-### Presenters : Eunseo Lee, Chaeyun Jang
+### Presenters : Eunseo Lee
 - Convolution
 - mnist cnn
 - visdom
 - Image folder1,2
 
 ## week 6｜[CNN(advanced)](https://www.youtube.com/watch?v=opD4z9xoBv4&list=PLQ28Nx3M4JrhkqBVIXg-i5_CVVoS1UzAv&index=24)
-### Presenters : Kyuhun Sim, Hayun Lee
+### Presenters : Hayun Lee
 - [VGG](https://arxiv.org/pdf/1409.1556.pdf)
 - [RESNET1,2](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 - Next step of CNN
