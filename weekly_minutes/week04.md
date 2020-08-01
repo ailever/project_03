@@ -37,3 +37,14 @@
   
   
 2주차) 성능개선~~
+  - Dataset Features <---> Model Evaluation : feedback
+  
+3주차) 추후생각
+  - Dataset Features <---> Model Evaluation : feedback
+  
+4주차) 계획서 보고서 작성
+
+5주차) 스케쥴링!
+
+6주차) 스케쥴링!
+
