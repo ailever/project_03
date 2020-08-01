@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/52376448/89098803-af691780-d425-11ea-88a8-a1cf06f2bed9.png)
+
 빅콘테스트 주차별 과제
 
 빅콘테스트 2020 온라인설명회 링크 : https://www.youtube.com/watch?v=YAIKbArBmPY  
@@ -47,4 +49,6 @@
 5주차) 스케쥴링!
 
 6주차) 스케쥴링!
+
+
 
