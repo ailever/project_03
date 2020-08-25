@@ -3,3 +3,4 @@
 
 ## version01.csv
 - all objects to int type
+- identical product code
