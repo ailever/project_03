@@ -5,5 +5,5 @@
 - all objects to int type
 - identical product code
 
-## version01.csv
+## version02.csv
 - brand info
