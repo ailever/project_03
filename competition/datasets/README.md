@@ -34,3 +34,4 @@
 <br><br><br>
 ## version04.csv
 - splited into minutes
+- not changed the time it broadcasted
