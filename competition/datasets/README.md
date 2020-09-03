@@ -35,3 +35,8 @@
 ## version04.csv
 - splited into minutes
 - not changed the time it broadcasted
+
+<br><br><br>
+## version05.csv
+- included external data(floating population)
+- not splited into minutes -> will be uploaded soon
