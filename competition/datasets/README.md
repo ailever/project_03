@@ -40,4 +40,4 @@
 <br><br><br>
 ## version05.csv
 - included external data(floating population)
-- not splited into minutes -> will be uploaded or shared on KakaoTalk soon
+- not splited into minutes -> will be uploaded on GitHub or shared on KakaoTalk soon
