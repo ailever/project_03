@@ -25,3 +25,12 @@
 ## version02.csv
 - brand info  
 ![image](https://user-images.githubusercontent.com/52376448/91631952-8d5cb800-ea18-11ea-8873-54959da6bbf4.png)
+
+<br><br><br>
+## version03.csv
+- matching brand code and brand name
+- imperfect. idk why and finding out
+
+<br><br><br>
+## version04.csv
+- splited into minutes
