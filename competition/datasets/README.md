@@ -35,8 +35,9 @@
 ## version04.csv
 - splited into minutes
 - not changed the time it broadcasted
+- cannot upload on github because of the memory size -> shared on KakaoTalk
 
 <br><br><br>
 ## version05.csv
 - included external data(floating population)
-- not splited into minutes -> will be uploaded soon
+- not splited into minutes -> will be uploaded or shared on KakaoTalk soon
