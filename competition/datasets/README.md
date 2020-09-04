@@ -30,6 +30,7 @@
 ## version03.csv
 - matching brand code and brand name
 - imperfect. idk why and finding out
+![image](https://user-images.githubusercontent.com/52376448/92242566-efc32600-eefa-11ea-9a87-d329590bf804.png)
 
 <br><br><br>
 ## version04.csv
@@ -41,6 +42,7 @@
 ## version05.csv
 - included external data(floating population)
 - not splited into minutes -> will be uploaded on GitHub or shared on KakaoTalk soon
+![image](https://user-images.githubusercontent.com/52376448/92242630-09fd0400-eefb-11ea-8500-1e994839965a.png)
 
 <br><br><br>
 ## version06.csv
@@ -52,3 +54,4 @@
 -deleted some brand names which are not real brand
 -does not contain floating floating population
 -is not splitted into minutes.
+![image](https://user-images.githubusercontent.com/52376448/92242675-1e410100-eefb-11ea-8977-31c5306ca820.png)
