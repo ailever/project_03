@@ -22,7 +22,7 @@
 
 <br><br><br>
 ## version02.csv
-- brand info
+- <i style="color:DodgerBlue;">brand</i> info
 <table>
   <tr>
     <th>순서</th>
