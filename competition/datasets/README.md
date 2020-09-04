@@ -37,6 +37,7 @@
 - splited into minutes
 - not changed the time it broadcasted
 - cannot upload on github because of the memory size -> shared on KakaoTalk
+![image](https://user-images.githubusercontent.com/52376448/92242872-70822200-eefb-11ea-85fc-1d282de4182e.png)
 
 <br><br><br>
 ## version05.csv
@@ -48,6 +49,7 @@
 ## version06.csv
 - included external data(floating population)
 - splited into minutes -> shared on KakaoTalk because of the massive file size
+![image](https://user-images.githubusercontent.com/52376448/92242957-94456800-eefb-11ea-8601-9336d5d549a0.png)
 
 <br><br><br>
 ## version07.csv
