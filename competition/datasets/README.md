@@ -31,7 +31,7 @@
     <th>상품코드</th>
     <th>상품명</th>
     <th>상품군</th>
-    <th><span style="color:DodgerBlue;">브랜드</span></th>
+    <th>브랜드</th>
     <th>노출</th>
     <th>month</th>
     <th>판매단가</th>
