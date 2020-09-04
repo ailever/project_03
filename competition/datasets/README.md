@@ -27,12 +27,14 @@
   <tr>
     <th>순서</th>
     <th>방송일시</th>
+    <th>마더코드</th>
     <th>상품코드</th>
     <th>상품명</th>
     <th>상품군</th>
-    <th>판매단가</th>
+    <th>브랜드</th>
     <th>노출</th>
     <th>month</th>
+    <th>판매단가</th>
     <th>취급액</th>
   </tr>
 </table>
@@ -74,12 +76,13 @@
   <tr>
     <th>순서</th>
     <th>방송일시</th>
+    <th>노출</th>
+    <th>마더코드</th>
     <th>상품코드</th>
     <th>상품명</th>
     <th>상품군</th>
     <th>판매단가</th>
-    <th>노출</th>
-    <th>month</th>
+    <th>브랜드</th>
     <th>취급액</th>
   </tr>
 </table>
@@ -120,12 +123,14 @@
   <tr>
     <th>순서</th>
     <th>방송일시</th>
+    <th>노출</th>
+    <th>마더코드</th>
     <th>상품코드</th>
     <th>상품명</th>
     <th>상품군</th>
+    <th>브랜드</th>
     <th>판매단가</th>
-    <th>노출</th>
-    <th>month</th>
+    <th>유동인구</th>
     <th>취급액</th>
   </tr>
 </table>
