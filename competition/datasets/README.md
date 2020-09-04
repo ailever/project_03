@@ -1,5 +1,5 @@
 ## version01.csv
-- all objects to int type
+- all objects to <strong>numerical type</strong>
 - identical product code  
 <table>
   <tr>
