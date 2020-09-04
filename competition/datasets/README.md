@@ -53,7 +53,7 @@
 
 <br><br><br>
 ## version07.csv
--deleted some brand names which are not real brand
--does not contain floating floating population
--is not splitted into minutes.
+- deleted some brand names which are not real brand
+- does not contain floating floating population
+- is not splitted into minutes.
 ![image](https://user-images.githubusercontent.com/52376448/92242675-1e410100-eefb-11ea-8977-31c5306ca820.png)
