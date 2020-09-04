@@ -1,5 +1,5 @@
 ## version01.csv
-- all objects to <strong>numerical type</strong>
+- all objects to **numerical type**
 - identical product code  
 <table>
   <tr>
@@ -22,7 +22,7 @@
 
 <br><br><br>
 ## version02.csv
-- brand info
+- **brand** info
 <table>
   <tr>
     <th>순서</th>
@@ -45,8 +45,8 @@
 
 <br><br><br>
 ## version03.csv
-- matching brand code and brand name
-- imperfect. idk why and finding out
+- matching **brand code** and **brand name**
+- **imperfect**. idk why and finding out
 <table>
   <tr>
     <th>순서</th>
@@ -69,7 +69,7 @@
 
 <br><br><br>
 ## version04.csv
-- splited into minutes
+- splited into **minutes**
 - not changed the time it broadcasted
 - cannot upload on github because of the memory size -> shared on KakaoTalk
 <table>
@@ -93,7 +93,7 @@
 
 <br><br><br>
 ## version05.csv
-- included external data(floating population)
+- included **external data**(floating population)
 - not splited into minutes -> will be uploaded on GitHub or shared on KakaoTalk soon
 <table>
   <tr>
@@ -117,8 +117,8 @@
 
 <br><br><br>
 ## version06.csv
-- included external data(floating population)
-- splited into minutes -> shared on KakaoTalk because of the massive file size
+- included **external data**(floating population)
+- splited into **minutes** -> shared on KakaoTalk because of the massive file size
 <table>
   <tr>
     <th>순서</th>
@@ -141,7 +141,7 @@
 
 <br><br><br>
 ## version07.csv
-- deleted some brand names which are not real brand
+- deleted some brand names which are **not real brand**
 - does not contain floating floating population
 - is not splitted into minutes.
 <table>
