@@ -46,3 +46,9 @@
 ## version06.csv
 - included external data(floating population)
 - splited into minutes -> shared on KakaoTalk because of the massive file size
+
+<br><br><br>
+## version07.csv
+-deleted some brand names which are not real brand
+-does not contain floating floating population
+-is not splitted into minutes.
