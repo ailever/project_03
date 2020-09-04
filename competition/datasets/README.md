@@ -24,10 +24,6 @@
 ## version02.csv
 - brand info
 <table>
-  <colgroup>
-    <col span="2" style="background-color:red">
-    <col style="background-color:yellow">
-  </colgroup>
   <tr>
     <th>순서</th>
     <th>방송일시</th>
