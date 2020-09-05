@@ -46,7 +46,6 @@
 <br><br><br>
 ## version03.csv
 - matching **brand code** and **brand name**
-- **imperfect**. idk why and finding out
 <table>
   <tr>
     <th>순서</th>
