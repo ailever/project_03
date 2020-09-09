@@ -46,6 +46,8 @@
 <br><br><br>
 ## version03.csv
 - matching **brand code** and **brand name**
+- some brands share same brand codes(ex.product code '200602' and '202449')
+
 <table>
   <tr>
     <th>순서</th>
