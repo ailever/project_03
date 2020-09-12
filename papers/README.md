@@ -17,3 +17,5 @@
 - Sequence to Sequence Learning with Neural Networks(Sep 2014)
   - https://arxiv.org/abs/1409.3215
   > Despite their flexibility and power, DNNs can only be applied to problems whose inputs and targets can be sensibly encoded with vectors of fixed dimensionality. It is a significant limitation, since many important problems are best expressed with sequences whose lengths are not known a-priori. For example, speech recognition and machine translation are sequential problems. Likewise, question answering can also be seen as mapping a sequence of words representing the question to a 1 sequence of words representing the answer. It is therefore clear that a domain-independent method that learns to map sequences to sequences would be useful.
+- Neural Networks for Time Series Processing(1996)
+  - https://www.semanticscholar.org/paper/Neural-Networks-for-Time-Series-Processing-Dorffner/b9a1c422c29b8e4dfb1a9c91d426fc3894726e88
