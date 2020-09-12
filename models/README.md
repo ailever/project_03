@@ -17,6 +17,11 @@
 ---
 
 ## LSTM
+
+- vanilla LSTM
+- stacked LSTM
+- bidirectional LSTM
+
 ### Issues
 
 <br><br><br>
