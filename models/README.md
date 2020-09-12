@@ -2,6 +2,7 @@
 ## MLP
 ### Issues
 - Fixed sized input/output
+- Absence of ability for capturing temperal structure
 
 <br><br><br>
 
