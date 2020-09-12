@@ -1,6 +1,7 @@
 # Deep Learning Models
 ## MLP
 ### Issues
+- Fixed sized input/output
 
 <br><br><br>
 
