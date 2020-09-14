@@ -236,3 +236,87 @@
     <th>취급액</th>
   </tr>
 </table>
+
+<br><br><br>
+## version15.csv
+- onehotencoding : 상품군
+- deleted some brand names which are **not real brand**
+- deleted month column
+- deleted '무형상품군'
+- contain floating floating population
+- contain fine dust
+- is splitted into minutes.
+
+<table>
+  <tr>
+    <th>순서</th>
+    <th>방송일시</th>
+    <th>노출(분)</th>
+    <th>마더코드</th>    
+    <th>상품코드</th>
+    <th>상품명</th>
+    <th>상품군0</th>
+    <th>상품군1</th>
+    <th>상품군2</th>
+    <th>상품군3</th>
+    <th>상품군4</th>
+    <th>상품군5</th>
+    <th>상품군6</th>
+    <th>상품군7</th>
+    <th>상품군8</th>
+    <th>상품군9</th>
+    <th>상품군10</th>
+    <th>상품군11</th>
+    <th>브랜드</th>
+    <th>판매단가</th>
+    <th>유동인구</th>
+    <th>PM10</th>
+    <th>PM25</th>
+    <th>취급액</th>
+  </tr>
+</table>
+
+<br><br><br>
+## version16.csv
+- onehotencoding : 상품군,노출(분)
+- deleted some brand names which are **not real brand**
+- deleted month column
+- deleted '무형상품군'
+- contain floating floating population
+- contain fine dust
+- is splitted into minutes.
+
+<table>
+  <tr>
+    <th>순서</th>
+    <th>방송일시</th>
+    <th>노출분 2</th>
+    <th>노출분 3</th>
+    <th>노출분 ..40 까지 </th>
+    <th>노출(분)</th>
+    <th>마더코드</th>    
+    <th>상품코드</th>
+    <th>상품명</th>
+    <th>상품군0</th>
+    <th>상품군1</th>
+    <th>상품군2</th>
+    <th>상품군3</th>
+    <th>상품군4</th>
+    <th>상품군5</th>
+    <th>상품군6</th>
+    <th>상품군7</th>
+    <th>상품군8</th>
+    <th>상품군9</th>
+    <th>상품군10</th>
+    <th>상품군11</th>
+    <th>브랜드</th>
+    <th>판매단가</th>
+    <th>유동인구</th>
+    <th>PM10</th>
+    <th>PM25</th>
+    <th>취급액</th>
+  </tr>
+</table>
+
+
+
