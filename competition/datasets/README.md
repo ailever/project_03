@@ -320,8 +320,12 @@
 
 
 ## version18.csv
+- non-encoding version
+
 ![image](https://user-images.githubusercontent.com/52376448/93671110-3c058d00-fadb-11ea-900c-294bb176ffb1.png)
 
 ## version19.csv
+- 방송일시 : int > timeobject 
+
 ![image](https://user-images.githubusercontent.com/52376448/93671301-c8647f80-fadc-11ea-9703-f395e764f30f.png)
 
